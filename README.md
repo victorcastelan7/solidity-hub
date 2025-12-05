@@ -24,6 +24,8 @@ Long-form logs and milestones:
 
 These are separate repos – this hub just links to them:
 
+- [Smart Contract Lottery](https://github.com/victorcastelan7/solidity-smart-contract-lottery) – Chainlink VRF-powered raffle with Foundry tests and deploy scripts.
+
 - Token Suite (ERC-20/721/1155, roles, permits): `TBD`
 - Upgradeable Contracts Platform: `TBD`
 - DeFi AMM Primitive: `TBD`
